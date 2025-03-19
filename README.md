@@ -6,7 +6,7 @@
   I work as a fullstack developer at Gelataria Sincelo, developing projects that aim to optimize the company's internal processes through programming. I have a degree in Foreign Trade and am currently studying Systems Analysis and Development. I combine my solid education with my passion for management, technology and innovation to develop solutions that automate tasks, reduce costs and increase operational efficiency. I have advanced proficiency in English and Spanish, as well as fluency in Portuguese.
 </p>
 
-## ✉️ Social
+## ✉️ Social and Contacts
 
 * [Gmail](mailto:mateusfreire.dev@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/mateus-freire-cea/)
