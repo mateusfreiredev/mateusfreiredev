@@ -25,8 +25,6 @@
     <img align="center" alt="NODEJS" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
-<br>
-
 ## ⚙️ Other Technologies
 
 <div style="display: inline_block"><br> 
