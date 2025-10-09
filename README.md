@@ -3,7 +3,9 @@
 **`Full-Stack Software Developer`** **`Automation Specialist`**
 
 <p align="justify">  
-  I work as a fullstack developer at Gelataria Sincelo, developing projects that aim to optimize the company's internal processes through programming. I have a degree in Foreign Trade and am currently studying Systems Analysis and Development. I combine my solid education with my passion for management, technology and innovation to develop solutions that automate tasks, reduce costs and increase operational efficiency. I have advanced proficiency in English and Spanish, as well as fluency in Portuguese.
+  Freelance Full-Stack Developer with experience in Python, JavaScript, and TypeScript, and proficiency in the Flask, Django, FastAPI, and React frameworks. I combine my solid background in Foreign Trade (Management/Logistics) with practical experience in management (Gelataria Sincelo) and the industrial sector (Colep Packaging) to design solutions that automate tasks, reduce costs, and increase operational efficiency.
+
+  Currently, I am specializing in automation through the IT Automation with Python (Google) program and pursuing a degree in Systems Analysis and Development (Computer Information Systems). In addition, I have advanced proficiency in English and am fluent in Portuguese and Spanish.
 </p>
 
 ## ✉️ Social and Contacts
