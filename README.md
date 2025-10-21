@@ -42,12 +42,13 @@
     <img align="center" alt="SASS" height="37" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
 </div>
 
+<!--
 ## 📊 Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusfreiredev)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfreiredev)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 
