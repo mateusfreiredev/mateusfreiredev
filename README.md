@@ -1,6 +1,6 @@
 # 👾 Mateus Freire 
 
-**`Full-Stack Software Developer`** **`Automation Specialist`**
+**`Full-Stack Software Developer`** **`Automation Specialist (Google)`**
 
 <p align="justify">  
   Freelance Full-Stack Developer with experience in Python, JavaScript, and TypeScript, and proficiency in the Flask, Django, FastAPI, and React frameworks. I combine my solid background in Foreign Trade (Management/Logistics) with practical experience in management (Gelataria Sincelo) and the industrial sector (Colep Packaging) to design solutions that automate tasks, reduce costs, and increase operational efficiency.
