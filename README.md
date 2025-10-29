@@ -10,7 +10,7 @@
 
 ## ✉️ Social and Contacts
 
-* [Gmail](mailto:mateusfreire.dev@gmail.com)
+* [Gmail](mailto:contact@mateusfreiredev.com)
 * [LinkedIn](https://www.linkedin.com/in/mateusfreiredev/)
 
 ## 🖥️ Languages ​​and Frameworks
